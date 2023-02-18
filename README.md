@@ -7,6 +7,10 @@ Project idea – The idea behind this project is to analyse music data based on 
 ## While we have seen audio being turned into data, can we also write music as datasets?
 The answer is simple: Yes! But things can get more interesting when we analyse and present beautiful insights of music for our concern.
 
+## Analysis done by followings-
+1. Extracted useful information using the Kaggle dataset to give recommendations  based on the users insights.
+2. Identified which genre, duration, singer,city and invoiceline  are performing better.
+3. Performed Advance SQL queries to find the appropriate insights.
 
 
 ## I am a firm believer that the best way to learn is by doing. data's given  you will learn everything on the way and be able to put it into practice straight away.
